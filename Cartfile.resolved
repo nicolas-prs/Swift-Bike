@@ -1,0 +1,3 @@
+github "Alamofire/Alamofire" "4.6.0"
+github "SwiftyJSON/SwiftyJSON" "4.0.0"
+github "nicolas-prs/CityBikesSDK" "511455943ee3d19c74a38dc6ac33afb0da1d6a2c"
